@@ -38,5 +38,5 @@
  27. [شنوتو](https://shenoto.com/page/career)
  28. [Novaday](https://novaday.ir/fa/careers/)
  29. [همراه اول](https://jobs.mci.ir/)
- 30. []()
+ 30. [کدبینز](https://www.linkedin.com/company/codebeanz/)
  31. []()
